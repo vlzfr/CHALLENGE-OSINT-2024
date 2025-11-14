@@ -1,7 +1,7 @@
 # FR-CHALLENGE-OSINT-2025
 Voici le challenge d'OSINT de Lucas DOS SANTOS , Romain TOSO , Ismail KSSIOUAR
 
-Telecharger l'arhive .zip
+Telecharger l'archive .zip
 
 Une fois l'archive télécharger rendez vous sur le challenge qui se trouve sur le lien google docs ci-dessous.
 
